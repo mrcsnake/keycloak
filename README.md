@@ -4,6 +4,8 @@ Keycloak is an Open Source Identity and Access Management solution for modern Ap
 
 This repository contains the source code for the Keycloak Server, Java adapters and the JavaScript adapter.
 
+**Other languages:** [Español (Spanish)](README_es.md)
+
 
 ## Help and Documentation
 
